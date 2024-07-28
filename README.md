@@ -7,11 +7,11 @@ This repository contains a machine learning model designed to classify SMS messa
 
 *Preprocessing:* Techniques such as tokenization, stop-word removal, and stemming/lemmatization are employed to clean and prepare the text data.
 
-*Modeling:* Various machine learning algorithms are implemented and compared, including Naive Bayes, Support Vector Machines, and Neural Networks.
+*Modeling:* Various machine learning algorithms are implemented and compared, including Naive Bayes, Support Vector Machines, and many more.
 
-*Evaluation:* The model's performance is evaluated using metrics like accuracy, precision, recall, and F1-score.
+*Evaluation:* The model's performance is evaluated using metrics like accuracy and precision.
 
-*Deployment:* Instructions for deploying the model in a production environment are included, along with a simple web interface for testing.
+*Prediction:* Instructions for predicting the model in a production environment are done in an python environment.
 
 **Contributing**
 
