@@ -14,4 +14,5 @@ This repository contains a machine learning model designed to classify SMS messa
 *Deployment:* Instructions for deploying the model in a production environment are included, along with a simple web interface for testing.
 
 **Contributing**
+
 We welcome contributions from the community. Please see our Contributing Guidelines for more details.
